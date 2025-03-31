@@ -42,7 +42,7 @@ We have provided several pretrained text encoders in [huggingface](https://huggi
 After downloading these pretrained text encoder, you can directly apply them to train a text-prompted medical segmentation. Pleas refer to the train guidance in [SAT](https://github.com/zhaoziheng/SAT).
 
 ## Train from Scratch:
-If you try to train from scratch, please refer to the training scripts in `sbatch_script'.
+If you try to do pretraining from scratch, please refer to the training scripts in `sbatch_script`.
 
 ## Citation
 If you use this code for your research or project, please cite:
